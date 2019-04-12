@@ -1,4 +1,5 @@
 {
   "name": "Hello world!!!",
-  "task": "Вывести в консоль сообщение \"Hello world!\""
+  "task": "Вывести в консоль сообщение \"Hello world!\"",
+  "difficulty": 0
 }
